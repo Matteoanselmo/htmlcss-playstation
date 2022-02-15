@@ -4,3 +4,16 @@ body{
 header{
     font-family: helvetica;
 }
+
+.my-banner{
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 70vh;
+    width: 100%;
+}
+
+.my-width-banner{
+    width: 250px;
+}
