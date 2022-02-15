@@ -6,7 +6,7 @@ header{
 }
 
 .my-banner{
-    background-image: url(../img/jumbo-bg.png);
+    
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
@@ -14,12 +14,20 @@ header{
     width: 100%; 
 }
 
+.my-banner-img-jumbo{
+    background-image: url(../img/jumbo-bg.png);
+}
+
 .my-width-banner{
     width: 250px;
 }
 
+.my-banner-img-main{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
 .my-img-size{
-    height: 170px;
+    /* height: 170px; */
     border-radius: 20px;
 }
 
