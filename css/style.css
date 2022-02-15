@@ -10,10 +10,15 @@ header{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
-    height: 70vh;
-    width: 100%;
+    height: 80vh;
+    width: 100%; 
 }
 
 .my-width-banner{
     width: 250px;
+}
+
+.my-img-size{
+    height: 170px;
+    border-radius: 20px;
 }
