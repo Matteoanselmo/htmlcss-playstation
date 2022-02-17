@@ -3,6 +3,8 @@ body{
 }
 header{
     font-family: helvetica;
+    position: fixed;
+    z-index: 9;
 }
 
 .my-banner{
