@@ -14,8 +14,7 @@ header{
 #jumbotron #jumbo-img-game img:hover{
     transition: 0.15s;
     transform: translateY(-1rem);
-    box-shadow:  rgba(0, 0, 0, 0.4);
-    box-shadow:-3px 10px rgba(0 , 0 , 0 , 0.2);
+    box-shadow: 0px 10px rgba(0 , 0 , 0 , 0.2);
     border: 2px solid rgb(0, 89, 255);
     
 }
